@@ -29,4 +29,26 @@
 
 ---
 
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/IslamSulaiman4/Portfolio.git
+
+# Navigate to the project folder
+cd Portfolio
+
+# Open index.html in your browser
+
+```
+---
+
+## 🧕 About Me
+
+I'm **Islam Sulaiman**, a passionate Frontend Developer currently enrolled in the **Udacity Nanodegree – Frontend Track**. I enjoy building accessible, responsive, and user-friendly web applications, and I'm always eager to learn and grow in the field of web development.
+
+📫 **Email:** islam2001shrif@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/islam-sulaiman4](https://www.linkedin.com/in/islam-sulaiman4)
 
