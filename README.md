@@ -1,14 +1,12 @@
 # 🎨 Portfolio Website
 
-## 🌐 Live Site  
-[🔗 View Live](https://port-folio4.netlify.app/)
-
-## 📁 Project Overview
+## 📌 Project Overview
 
 **Portfolio** is a responsive portfolio-style website built using **HTML**, **CSS**, and **JavaScript**. It is designed as a modern showcase for creative professionals, with smooth interactions, elegant sections, and a layout optimized for various screen sizes using **media queries**.
 
 > 🔹 *Note: This site is not a personal portfolio, but rather a styled template for creative web presentation.*
 
+🔗 **Live Site**: [https://grandrestaurant.netlify.app](https://port-folio4.netlify.app/)
 ---
 
 ## 🚀 Features
